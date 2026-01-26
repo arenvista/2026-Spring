@@ -13,3 +13,5 @@
 [submodule "MATH-301"]
 	path = MATH-301
 	url = git@github.com:arenvista/MATH-301.git
+[submodule "*"]
+	branch = main
