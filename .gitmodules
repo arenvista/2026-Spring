@@ -10,3 +10,6 @@
 [submodule "CMSC-475"]
 	path = CMSC-475
 	url = git@github.com:arenvista/CMSC-475.git
+[submodule "MATH-301"]
+	path = MATH-301
+	url = git@github.com:arenvista/MATH-301.git
